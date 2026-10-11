@@ -1,7 +1,7 @@
 # DATA STORYTELLING & KPI DESIGN — VISUAL MINDMAP MASTERY
 
 > Companion to the 6-hour course. Visual, memory-first, active-recall. Same company throughout: **Northwind Commerce** (~$110M online retailer).
-> Each block: WHAT → WHY → PICTURE → ANALOGY → EXAMPLE → NUMBERS → GOOD vs BAD → MISTAKE → MEMORY HOOK → EXERCISE → RECALL → PROJECT USE.
+> Each block draws on the same shape — WHAT · WHY · PICTURE · ANALOGY · EXAMPLE · NUMBERS · GOOD vs BAD · MISTAKE · MEMORY HOOK · EXERCISE · RECALL · PROJECT USE — condensed to what each concept actually needs.
 
 ---
 
